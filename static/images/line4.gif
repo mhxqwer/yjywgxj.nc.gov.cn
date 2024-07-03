@@ -1,0 +1,1803 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+ <!-- <link rel="icon" href="http://www.nc.gov.cn/ncszf/xhtml/2021/images/title_icon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="http://www.nc.gov.cn/ncszf/xhtml/2021/images/title_icon.ico" type="image/x-icon" /> -->
+  
+<meta name="SiteName" content="南昌市人民政府"/>
+<meta name="SiteDomain" content="www.nc.gov.cn"/>
+<meta name="SiteIDCode" content="3601000001"/>
+
+<meta name="others" content="页面生成时间 2024-06-24 14:44:45" />
+<title>
+      南昌市人民政府
+  </title>
+  <link rel="stylesheet" type="text/css" href="/ncszf/xhtml/2021/css/share.css">
+  <link rel="stylesheet" href="/ncszf/xhtml/2021/layui/css/layui.css">
+  <link rel="stylesheet" type="text/css" href="/ncszf/xhtml/2021/css/swiper.min.css">
+  <link rel="stylesheet" type="text/css" href="/ncszf/xhtml/2021/css/owl.carousel.min.css">
+  <link rel="stylesheet" type="text/css" href="/ncszf/xhtml/2021/css/css3.css">
+  <link rel="stylesheet" type="text/css" href="/ncszf/xhtml/2021/css/public.css?t=20230815">
+  <link rel="stylesheet" type="text/css" href="/ncszf/xhtml/2021/css/public_responsive.css?t=20221112">
+  <link rel="stylesheet" type="text/css" href="/ncszf/xhtml/2021/css/index.css?t=20240517">
+  <script type="text/javascript">
+      var websiteId = "5ba35ed57a204f5b9e58890bb1a2484f",
+          websiteCode = "ncszf",
+          websiteName = "南昌市人民政府";
+  </script>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/jquery.SuperSlide.2.1.1.js"></script>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/layui/layui.js" charset="utf-8"></script>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/jquery.fullPage.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/owl.carousel.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/swiper.min.js"></script>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/jquery.slimscroll.js" charset="utf-8"></script>
+</head>
+
+<body class="home_body" id="home_body">
+  <div class="arrow">
+    <!-- <div class="goNext" style="bottom: 0px;">向下滑动<b></b></div> -->
+    <div id="top" class="goTop" data-menuanchor="page5" style="bottom: -120px; display: none;"><a href="#page1">TOP<b></b></a></div>
+  </div>
+  <!-- <div id="top" class="goTop" data-menuanchor="page5" ><a href="#page1">TOP</a></div> -->
+  <!-- header -->
+  <div class="header index_header ">
+    <div class="container inhead">
+      <!-- logo -->
+      <div class="logo">
+        <dl>
+          <dt><img src="/ncszf/xhtml/2021/images/guohui_home.png" alt=""></dt>
+          <dd>
+            <span>南昌市人民政府</span>
+            <font>The People's Government of Nanchang Municipality</font>
+          </dd>
+        </dl>
+      </div>
+      <!-- logo End -->
+      <!-- search -->
+      <div class="search">
+        <form name="form1" id="searchForm" action="//www.nc.gov.cn/so/s" method="get" enctype="application/x-www-form-urlencoded" target="_blank" onsubmit="return utf8Test()">
+        <dl>
+          <dd>
+  
+            <input type="text" id="wd" name="qt" placeholder="搜索您喜欢的…">
+          </dd>
+          <dt class="button"><input type="submit" type="submit" class="searchBtn" id="searchBtn" value=""></dt>
+        </dl>
+        </form>
+      </div>
+      <!-- search End -->
+      <!--nav start-->
+       <div class="swiper-container swiper-nav">
+					<div class="swiper-wrapper clearfix" id="mainnav">
+						<div class="swiper-slide swiper-home">
+							 <a href="http://www.nc.gov.cn/" target="_blank" class="link">网站首页</a>
+						</div>
+						<div class="swiper-slide">
+							<a href="/ncszf/szf/2021_szf.shtml" target="_blank" class="link">市政府</a>
+						</div>
+						<div class="swiper-slide">
+							<a href="/ncszf/xwdt/2021_xwdt.shtml" target="_blank" class="link">政务要闻</a>
+						</div>
+						<div class="swiper-slide">
+							 <a href="/ncszf/szfxxgkzn/zfxxgkzn.shtml" target="_blank" class="link">政务公开</a>
+						</div>
+						<div class="swiper-slide">
+							<a href="/ncszf/zwfwn/2023_zwfw.shtml" target="_blank" class="link">政务服务</a>
+						</div>
+						<div class="swiper-slide">
+							 <a href="/ncszf/hdjln/2021_hdjl.shtml" target="_blank" class="link">互动交流</a>
+						</div>
+						<div class="swiper-slide">
+							 <a href="/ncszf/sjkfn/2021_sjkf.shtml" target="_blank" class="link">数据开放</a>
+						</div>
+						<div class="swiper-slide">
+							 <a href="/ncszf/yxcn/2021_yxc.shtml" target="_blank" class="link">英雄城</a>
+						</div>
+					</div>
+					<div class="ss_box"><a href="/ghwd2/search/index.html" target="_blank"></a></div>	
+				</div>
+      <!--nav end-->
+    </div>
+
+    <!-- menumode -->
+     <div class="header-xuanfu-bar">
+ 
+    <div class="skip">
+       <!-- 横幅
+		<a href="http://www.gov.cn/zhuanti/zggcddescqgdbdh/index.htm" target="_blank"><img style="width:100%" src="/ncszf/xhtml/images/esdhf.jpg"></a>
+	-->
+      <div class="container clearfix">
+        <ul class="clearfix">
+          <li class="gov vLine"><a href="http://www.gov.cn/" title="中国政府网" target="_blank"><font>中国政府网</font></a></li>
+          <li class="gov"><a href="http://www.jiangxi.gov.cn/" title="江西政府网" target="_blank"><font>江西政府网</font></a></li>
+         <li class="wzali"> <a href="javascript:void(0)" onclick="aria.start()"><font>无障碍</font></a>
+          <li class="wzali"><a id="wzalink" href="javascript:void(0)" onclick="aria.oldFixedStart()"><font>关怀版</font></a></li>
+          <li class="wzali"><a href="/ncszf/suitold/SuitOld.shtml" target="_blank"><font>长者专区</font></a></li>
+          
+          <li class="user" id="header-login">
+			  <!-- <a href="http://www.nc.gov.cn/ncuser/userCenter/index.html" title="江西政府网" target="_blank"><font>用户中心</font></a> -->
+		</li>
+         <li class="znwd"><a href="http://www.nc.gov.cn/ghwd/znwd/index.html" target="_blank"><font>智能问答</font></a></li>
+
+        </ul>
+      </div>
+    </div>
+    <div class="header-toggle-btn" id="header-toggle-btn">
+      <div>
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </div>
+  <script src="http://www.nc.gov.cn/ncszf/xhtml/js/crypto_js.min.js"></script>
+  <div class="header-picker" id="header-picker">
+    <div class="picker-hall-over">
+      <div class="picker-hall-scroll">
+        <div class="picker-hall-main clearfix">
+          <dl class="dl0">
+            <dt><a href="https://liuyan.www.gov.cn/2024wwzfgzbgtjy/bmdf.html?q=jx" title="国务院@你" target="_blank"><span>国务院@你</span></a></dt>
+          </dl>
+          <dl class="dl1">
+            <dt><a href="javascript:void(0);" title="赣服通"><span>赣服通</span></a></dt>
+            <dd>
+              <div class="cont"><img src="/ncszf/xhtml/2021/images/qrcode_gft.jpg" alt=""></div>
+            </dd>
+          </dl>
+          
+          <dl class="dl3">
+            <dt><a href="https://weibo.com/nanchangfabu?sudaref=www.so.com&retcode=6102" title="南昌发布" target="_blank"><span>南昌发布</span></a></dt>
+          </dl>
+          <dl class="dl4">
+            <dt><a href="javascript:void(0);" title="微信公众号"><span>微信公众号</span></a></dt>
+            <dd>
+              <div class="cont"><img src="/ncszf/xhtml/2021/images/qrcode_wx.jpg" alt=""></div>
+            </dd>
+          </dl>
+          <dl class="dl5">
+            <dt><a href="https://www.nc.gov.cn/ncszf/mtjz/dmtjz.shtml" title="媒体矩阵" target="_blank"><span>媒体矩阵</span></a></dt>
+          </dl>
+          <dl class="dl6">
+            <dt><a href="javascript:void(0);" title="手机WAP"><span>手机WAP</span></a></dt>
+            <dd>
+              <div class="cont"><img src="/ncszf/xhtml/2021/images/qrcode_wap.jpg" alt=""></div>
+            </dd>
+          </dl>
+          <dl class="dl7">
+            <dt><a href="http://www.nc.gov.cn/ghwd/znwd/index.html" title="小洪同学" target="_blank"><span>小洪同学</span></a></dt>
+          </dl>
+          <dl class="dl8">
+            <dt><a href="http://www.nc.gov.cn/english/index.shtml" title="英文版" target="_blank"><span>英文版</span></a></dt>
+          </dl>
+         
+
+          <dl class="dl10">
+            <dt><a style='cursor: pointer;' onclick='clickAction("53616c7465645f5fd32d05d8cf4da309a16abc7049c0b1e9993bbfe9b78febe90f5afec476dd872ad65faeabaf683f12")' title="政务邮箱" target="_blank"><span>政务邮箱</span></a></dt>
+           
+           
+          </dl>
+          <dl class="dl11">
+            
+            <style>
+              .social-share .icon-wechat .wechat-qrcode .qrcode img{width: auto;height: auto;}
+            </style>
+            <dt><a href="javascript:void(0);" title="分享" class="icon"><span>分享</span></a></dt>
+            <dd class="share right">
+              <div class="cont">
+                <div id="share-2" style="display: inline-block;" data-sites="wechat ,weibo, qq, qzone"></div>
+                <!--<ul class="bshare-custom clearfix">
+                  <li><a href="javascript:share.weixin();" title="分享到微信" class="icon-wechat"></a></li>
+                  <li><a href="javascript:share.weibo();" title="分享到新浪微博" class="icon-sinablog"></a></li>
+                  <li><a href="javascript:share.qq();" title="分享到QQ好友" class="icon-qqim"></a></li>
+                  <li><a href="javascript:share.qzone();" title="分享到QQ空间" class="icon-qzone"></a></li>
+                </ul>-->
+              </div>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="header-picker-mark"></div>
+<script src="/ncszf/xhtml/2021/js/jquery.share.min.js"></script>
+<script>
+  $('#share-2').share();
+</script>
+<script type="text/javascript">
+		//生成加密字符串,rf为加密字符，可自定义。
+		console.log( aesEncrypt("https://mail.nc.gov.cn/","rf") )
+		//新窗口打开地址
+		function clickAction(str) {
+		  window.open(aesDecrypt(str,"rf"));
+		}
+		//链接加密
+		function aesEncrypt(content, aesKey){
+		  var cipherStr = "";
+		  var srcs = CryptoJS.enc.Utf8.parse(content);
+
+		  cipherStr = CryptoJS.AES.encrypt(srcs, aesKey, {
+		    mode: CryptoJS.mode.ECB,
+		    padding: CryptoJS.pad.ZeroPadding
+		  }).toString();
+		  
+		  var words = CryptoJS.enc.Base64.parse(cipherStr);
+		  var hex = CryptoJS.enc.Hex.stringify(words);
+		  return hex;
+		}
+		//链接解密
+		function aesDecrypt(hexStr, aesKey){
+		  var words = CryptoJS.enc.Hex.parse(hexStr);
+		  var ciphertext = CryptoJS.enc.Base64.stringify(words);
+		  var bytes  = CryptoJS.AES.decrypt(ciphertext, aesKey, {
+		    mode: CryptoJS.mode.ECB,
+		    padding: CryptoJS.pad.ZeroPadding
+		  });
+		  var originalText = bytes.toString(CryptoJS.enc.Utf8);
+		  return originalText;
+		}
+		</script>
+    <!-- menumode End -->
+  </div>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/header.js?t=20240516"></script>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/simple_share.min.js"></script>
+  <script type="text/javascript">
+    var share = new SimpleShare({
+        url: location.href,
+        title: $("title").text(),
+        content: $("title").text(),
+        pic: $("#zoomcon img").length > 0 ? location.href.split(".html")[0] + "/images/" + $("#zoomcon img")
+            .eq(0).attr("src").split("/")[2] : ""
+    });
+  </script>
+  <!-- header End -->
+  <div id="fullpage">
+    <!--第一屏 start-->
+    <div class="section page1 ">
+      <div class="page1">
+        <div class="home_banner"></div>
+        <!-- mainnav -->
+        <div class="mainnav">
+          <!-- search -->
+          <div class="search" style="display: block;">
+            <div class="search_inner">
+              <form id="searchForm" name="form1" action="//www.nc.gov.cn/so/s" method="get" target="_blank" onsubmit="return utf8Test()">
+                <dl>
+                  <dt class="title">快速搜索</dt>
+                  <dd>
+                    <input type="text" id="wd" name="qt" placeholder="搜索您喜欢的…">
+                  </dd>
+                  <dt class="button"><input type="submit" class="searchBtn" id="searchBtn" value=""></dt>
+                </dl>
+              </form>
+            </div>
+          </div>
+          <!-- search End -->
+
+        </div>
+        <!-- mainnav End -->
+      </div>
+    </div>
+    <!--第一屏 end-->
+     <!-- main -->
+    <!--第二屏 start-->
+    <style>
+ /* .comone-con a {color: #2d548f;margin-right: 10px;}*/
+.comone-con a {margin-right: 10px;    color: #2d548f;}
+  .comone-tit a{font-size: 41px;/*letter-spacing: -5px;*/}
+    .comone-tit{font-family: 宋体;width: 100%}
+@media (max-width: 740px) {
+  .comone-tit {
+      width: auto;
+  }
+	  .comone-tit a{font-size: 26px;}
+}
+
+</style>
+<div class="section">
+	<div class="home_div home_div02">
+		<div class="container">
+          <!--头条 start-->
+          <div class="hot">
+             
+              <div class="comone-tit" style="margin-bottom: 10px;">
+              <a style="font-family:Microsoft Yahei; " href="https://www.gov.cn/yaowen/liebiao/202407/content_6960757.htm" title="习近平同哈萨克斯坦总统托卡耶夫举行小范围晤谈" target="_blank">
+						习近平同哈萨克斯坦总统托卡耶夫举行小范围晤谈
+				</a>
+               
+               </div>
+           <div class="comone-con" style="font-size: 20px;    margin: 0 auto;width: 100%; font-family:Microsoft Yahei; ">
+             <div class="memo mhide">
+      <a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960697.htm" target="_blank">习近平抵达阿斯塔纳出席上海合作组织成员国元首理事会第二十四次会议并对哈萨克斯坦进行国事访问</a> | <a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960686.htm" target="_blank">发表书面讲话</a> 
+
+             </div>
+           
+            
+          	 <!--<a style="font-family:Microsoft Yahei;" href="https://www.gov.cn/toutiao/" target="_blank">[更多]</a>    -->  
+              </div> 
+
+            
+       		<!--  
+
+              <div class="comone-tit" style="  margin-bottom: 30px;">
+                <a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960757.htm" title="习近平同哈萨克斯坦总统托卡耶夫举行小范围晤谈" target="_blank">
+						习近平同哈萨克斯坦总统托卡耶夫举行小范围晤谈
+				</a>
+              </div>
+ -->
+              <div class="comone-con">
+                
+               <!--  
+
+               			<a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960697.htm" target="_blank"><a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960686.htm" target="_blank">习近平抵达哈萨克斯坦阿斯塔纳纳扎尔巴耶夫国际机场发表书面讲话</a> <a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960638.htm" target="_blank">托卡耶夫总统在机场迎接</a> | <a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960634.htm" target="_blank">习近平在哈萨克斯坦媒体发表署名文章</a></a>
+|
+
+               			<a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960686.htm" target="_blank" style="margin-left: 10px;"><span data-index="31" style="font-size: 40px;">习近平抵达哈萨克斯坦阿斯塔纳纳扎尔巴耶夫国际机场发表书面讲话</span></a></h2></a>
+
+
+               			<a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960631.htm" target="_blank" style="margin-left: 10px;"><span data-index="30" style="font-size: 33px;">习近平抵达阿斯塔纳<br/>出席上海合作组织成员国元首理事会第二十四次会议并对哈萨克斯坦进行国事访问</span></a></h2></a>
+
+                
+
+               			<a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960586.htm" target="_blank" style="margin-left: 10px;">习近平离京出席上海合作组织成员国元首理事会第二十四次会议<br>并对哈萨克斯坦、塔吉克斯坦进行国事访问</a>
+
+
+               			<a href="https://www.gov.cn/yaowen/liebiao/202407/content_6960540.htm" target="_blank">总书记的人民情怀 | “走好网络群众路线”</a>
+-->
+              </div>
+		
+            <a href="http://www.gov.cn/hudong/index.htm"  title="@国务院 我来说" target="_blank"  class="gwy_index"><img title="@国务院 我来说" src="/ncszf/xhtml/2021/images/gwy_index.jpg" /></a>
+          </div>
+          <!--头条 end-->
+			<!--公式公告 start-->
+			<div class="left_box">
+				<div class="gsgg_box">
+                  <div class="gsgg_pic" style="margin-bottom: 10px;"><a href="https://liuyan.www.gov.cn/2024wwzfgzbgtjy/bmdf.html?q=jx"  title="@国务院 我为政府工作报告提建议" target="_blank"  class="gwy"><img title="@国务院 我为政府工作报告提建议" src="/ncszf/xhtml/2021/images/gwy_index.jpg" /></a></div>
+					<div class="public_hd">
+						<a href="/ncszf/tzgg/2021_nav_list.shtml"  target="_blank">公示公告</a>
+					</div>
+					<div class="gsgg_pic"><!--<img title="公告公示" src="/ncszf/xhtml/2021/images/gsgg_pic.jpg" />--></div>
+					<div class="gsgg_swiper swiper-container">
+                      <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                          <ul class="gsgg_list clearfix">
+
+                              <li><a href="/ncszf/tzgg/202406/6e285ca33a5e406aa873b2402c31d6f7.shtml" title="关于2022年度城市交通发展奖励资金（费改税部分）营运天数等数据的公示" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>关于2022年度城市交通发展奖励资金（费改税部分）营运天数等数据的公示</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年06月</span><strong>28<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                              <li><a href="/ncszf/tzgg/202406/95b71a041feb4a8a9176dc96e4177c63.shtml" title="关于对《南昌市个体工商户分类标准（试行）》公示" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>关于对《南昌市个体工商户分类标准（试行）》公示</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年06月</span><strong>24<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                              <li><a href="/ncszf/tzgg/202406/b1233a388b17498ea45be3c0851c15f4.shtml" title="南昌市森林景观摄影作品征集活动获奖作品公示" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>南昌市森林景观摄影作品征集活动获奖作品公示</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年06月</span><strong>22<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                              <li><a href="/ncszf/tzgg/202406/9e09b235f078485faecbe3c7f1c05e15.shtml" title="关于公开征求《南昌市制造业数字化转型实施方案（2024-2025年）（征求意见稿）》意见的公告" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>关于公开征求《南昌市制造业数字化转型实施方案（2024-2025年）（征求意见稿）》意见的公告</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年06月</span><strong>18<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                          </ul>
+                        </div><!--swiper-slide end-->
+                        <div class="swiper-slide">
+                          <ul class="gsgg_list clearfix">
+
+                              <li><a href="/ncszf/tzgg/202406/0aa35f1fa2d1412da1efff183f5fbbd5.shtml" title="关于征集江西省自然科学基金南昌创新发展联合基金项目指南的通知" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>关于征集江西省自然科学基金南昌创新发展联合基金项目指南的通知</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年06月</span><strong>11<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                              <li><a href="/ncszf/tzgg/202406/76c1021317784742884b84cff487f7b2.shtml" title="关于组织申报南昌市电子信息产业企业2023年度研发费用后补助项目的通知(洪科字〔2024〕83号）" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>关于组织申报南昌市电子信息产业企业2023年度研发费用后补助项目的通知(洪科字〔2024〕83号）</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年06月</span><strong>04<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                              <li><a href="/ncszf/tzgg/202406/a7837bb98579403ba5e26af1bd4dcb5a.shtml" title="债权债务清算公告" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>债权债务清算公告</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年06月</span><strong>04<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                              <li><a href="/ncszf/tzgg/202405/01dd798f4f3f4edcb7a9ac89e07350bc.shtml" title="南昌市工贸行业安全生产标准化（三级）评审定级拟通过达标企业公示" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>南昌市工贸行业安全生产标准化（三级）评审定级拟通过达标企业公示</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年05月</span><strong>24<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                          </ul>
+                        </div><!--swiper-slide end-->
+                        <div class="swiper-slide">
+                          <ul class="gsgg_list clearfix">
+
+                              <li><a href="/ncszf/tzgg/202405/5d6ff283e6fd48ed88eca84ad1711e11.shtml" title="南昌市政务服务数据管理局政务信息化项目招标代理机构遴选公告" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>南昌市政务服务数据管理局政务信息化项目招标代理机构遴选公告</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年05月</span><strong>20<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                              <li><a href="/ncszf/tzgg/202405/16626ab03fc346f1b245cb5cfa14c22f.shtml" title="中共南昌市委 南昌市人民政府公开第二轮省生态环境保护督察报告整改方案" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>中共南昌市委 南昌市人民政府公开第二轮省生态环境保护督察报告整改方案</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年05月</span><strong>16<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                              <li><a href="/ncszf/tzgg/202405/9ec34f0bfbd74364acf132319e0a4ea3.shtml" title="南昌市人力资源和社会保障局关于2024年民办职业培训学校年度评估结果的通报" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>南昌市人力资源和社会保障局关于2024年民办职业培训学校年度评估结果的通报</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年05月</span><strong>13<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                              <li><a href="/ncszf/tzgg/202405/dde6882afe094b53879010d9ffdd57bd.shtml" title="南昌市工贸行业安全生产标准化（三级）评审定级拟通过达标企业公示" target="_blank">
+                                <div class="caption elli-m">
+                                  <span>南昌市工贸行业安全生产标准化（三级）评审定级拟通过达标企业公示</span>
+                                </div>
+                                <div class="time">
+                                  <span>2024年05月</span><strong>10<font>日</font></strong>
+                                </div>
+                              </a>
+                            </li>
+
+                          </ul>
+                        </div><!--swiper-slide end-->
+                      </div>
+                      <div class="gsgg_swiper_page swiper-page-set"></div>
+                    </div>
+				</div>
+			</div>
+			<!--公式公告 end-->
+			<div class="mid_box">
+				<!--图片新闻 start-->
+				<div class="tpxw">
+					<div id="home-tpxw" class="owl-carousel">
+							<a href="https://tousu.www.gov.cn/dc/2024yxyshjjs/index.htm" title="影响营商环境建设问题线索征集"
+							 target="_blank" class="item">
+								<img title="影响营商环境建设问题线索征集" src="/ncszf/tpxw/202402/e47f5d84707d4956b9c4154563bcdc5f/images/5e6840080d54468b83acf3244920ae05.jpg
+ " />
+								<span class="item-name text-nowrap">
+									影响营商环境建设问题线索征集
+								</span>
+							</a>
+							<a href="https://tousu.www.gov.cn/dc/2023zhdc/index.htm" title="2023年度国务院推动高质量发展综合督查问题线索征集"
+							 target="_blank" class="item">
+								<img title="2023年度国务院推动高质量发展综合督查问题线索征集" src="/ncszf/tpxw/202310/300114912c2842cdbdbcce5a3f65d473/images/d7026261acf64007ba747f6ee81422d8.jpg
+ " />
+								<span class="item-name text-nowrap">
+									2023年度国务院推动高质量发展综合督查问题线索征集
+								</span>
+							</a>
+							<a href="https://mp.weixin.qq.com/s/6CbU1rh4w1Zr5Jj4zKRJOw" title="一图速览2024年政府工作报告"
+							 target="_blank" class="item">
+								<img title="一图速览2024年政府工作报告" src="/ncszf/tpxw/202403/c8c7a672d140417893ad8d41b66e13d7/images/6fe30f869049463f9a8fa659b33080b8.jpg
+ " />
+								<span class="item-name text-nowrap">
+									一图速览2024年政府工作报告
+								</span>
+							</a>
+							<a href="https://mp.weixin.qq.com/s/RSxmo2rZdbW-wEbqKR9NSg" title="一图读懂！南昌市政府工作报告！"
+							 target="_blank" class="item">
+								<img title="一图读懂！南昌市政府工作报告！" src="/ncszf/tpxw/202401/97af67fe47b34b18b0b4e19d8be0a5a9/images/f9631078e0fe46a8bc2aa9efcc5b32d6.jpg
+ " />
+								<span class="item-name text-nowrap">
+									一图读懂！南昌市政府工作报告！
+								</span>
+							</a>
+							<a href="http://www.gov.cn/zhuanti/zswzjjylzzccs/index.htm" title="稳经济一揽子政策措施和接续政策"
+							 target="_blank" class="item">
+								<img title="稳经济一揽子政策措施和接续政策" src="/ncszf/tpxw/202209/65a8e2ec3e254dc98b717c70c104f4cd/images/6a1e2d951fea4c9bb4a7c7f93dccd2ae.jpeg
+ " />
+								<span class="item-name text-nowrap">
+									稳经济一揽子政策措施和接续政策
+								</span>
+							</a>
+							<a href="http://www.nc.gov.cn/jwmsxf/indexn.shtml" title="讲文明 树新风"
+							 target="_blank" class="item">
+								<img title="讲文明 树新风" src="/ncszf/tpxw/202008/10a210676b21445881a78fa83728eb09/images/b830f658868c46d58ff69bb72f1bcdb7.jpg
+ " />
+								<span class="item-name text-nowrap">
+									讲文明 树新风
+								</span>
+							</a>
+							<a href="https://www.nc.gov.cn/ncszf/zcjdzt/zcjd.shtml" title="政策解读专题"
+							 target="_blank" class="item">
+								<img title="政策解读专题" src="/ncszf/tpxw/202405/56b5dff9cfb54924b1f118cb8a9dee8f/images/0a735ef4bfc9435ea3466cd8c0a72f31.png
+ " />
+								<span class="item-name text-nowrap">
+									政策解读专题
+								</span>
+							</a>
+
+					</div>
+				</div>
+				<!--图片新闻 end-->
+				<div class="xinwen_box common_box ">
+					<div class="hd">
+						<ul>
+							<li><span>
+									<a href="/ncszf/jrnc/2021_nav_list.shtml"  target="_blank">今日南昌</a>
+								</span></li>
+							<li><span><a href="/ncszf/gwyxx/2021_nav_list.shtml" target="_blank">国务院</a></span></li>
+							<li><span><a href="http://www.jiangxi.gov.cn/col/col393/index.html" target="_blank">省政府</a></span></li>
+							<li><span><a href="/ncszf/bmdt/2021_nav_list.shtml" target="_blank">部门</a></span></li>
+							<li><span><a href="/ncszf/xqdt/2021_nav_list.shtml" target="_blank">县区</a></span></li>
+						</ul>
+					</div>
+					<div class="common-bd bd">
+						<ul class="infoList hadLin">
+
+								<li>
+									<h4><a href="/ncszf/jrnc/202407/92dbdd30ceaf4c839275f4a5424cdf17.shtml" title="赣江新区党工委会议召开"
+										 target="_blank">
+											赣江新区党工委会议召开
+										</a><span class="time">
+											2024-07-03
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/jrnc/202407/837308ec1b304a63b98fd87ed2397ab0.shtml" title="赣锋锂电消费类锂电池电芯PACK自动化制造项目落户南昌高新区"
+										 target="_blank">
+											赣锋锂电消费类锂电池电芯PACK自动化制造项目落户南昌高新区
+										</a><span class="time">
+											2024-07-03
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/jrnc/202407/fc311b30ae2e46f280200bb24c8ed555.shtml" title="南昌市123家企业上榜省产融合作主导产业重点企业"
+										 target="_blank">
+											南昌市123家企业上榜省产融合作主导产业重点企业
+										</a><span class="time">
+											2024-07-03
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/jrnc/202407/b1e1cb5afbfb4978bf5b18504fb9f847.shtml" title="我市举行“5+2就业之家”练兵比武暨公共就业服务专项业务竞赛"
+										 target="_blank">
+											我市举行“5+2就业之家”练兵比武暨公共就业服务专项业务竞赛
+										</a><span class="time">
+											2024-07-03
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/jrnc/202407/803243e9b12a4581a8209738b7cf2ece.shtml" title="市领导开展“七一”走访慰问活动"
+										 target="_blank">
+											市领导开展“七一”走访慰问活动
+										</a><span class="time">
+											2024-07-03
+										</span></h4>
+								</li>
+
+
+						</ul>
+						<div>
+                            <ul class="infoList hadLin">
+
+                                  <li>
+                                      <h4><a href="https://www.gov.cn/yaowen/liebiao/202406/content_6959844.htm" title="习近平在中共中央政治局第十五次集体学习时强调：贯彻落实新时代党的建设总要求 进一步健全全面从严治党体系"
+                                           target="_blank">
+                                              习近平在中共中央政治局第十五次集体学习时强调：贯彻落实新时代党的建设总要求 进一步健全全面从严治党体系
+                                          </a><span class="time">
+                                              07-01
+                                          </span></h4>
+                                  </li>
+
+                                  <li>
+                                      <h4><a href="https://mp.weixin.qq.com/s/IWF1GWakrdJCpFq7jg8aAQ" title="壮大“耐心资本”， 缓解“退出难”……四部门重磅发声"
+                                           target="_blank">
+                                              壮大“耐心资本”， 缓解“退出难”……四部门重磅发声
+                                          </a><span class="time">
+                                              06-28
+                                          </span></h4>
+                                  </li>
+
+                                  <li>
+                                      <h4><a href="https://www.gov.cn/yaowen/liebiao/202406/content_6959491.htm" title="李强主持召开国务院常务会议听取关于贯彻落实全国生态环境保护大会精神全面推进美丽中国建设工作情况汇报等"
+                                           target="_blank">
+                                              李强主持召开国务院常务会议听取关于贯彻落实全国生态环境保护大会精神全面推进美丽中国建设工作情况汇报等
+                                          </a><span class="time">
+                                              06-27
+                                          </span></h4>
+                                  </li>
+
+                                  <li>
+                                      <h4><a href="https://www.gov.cn/yaowen/liebiao/202406/content_6959088.htm" title="全国科技大会 国家科学技术奖励大会 两院院士大会在京召开 习近平为国家最高科学技术奖获得者等颁奖并发表重要讲话"
+                                           target="_blank">
+                                              全国科技大会 国家科学技术奖励大会 两院院士大会在京召开 习近平为国家最高科学技术奖获得者等颁奖并发表重要讲话
+                                          </a><span class="time">
+                                              06-26
+                                          </span></h4>
+                                  </li>
+
+                                  <li>
+                                      <h4><a href="https://www.gov.cn/yaowen/liebiao/202406/content_6958386.htm" title="习近平在青海考察时强调：持续推进青藏高原生态保护和高质量发展 奋力谱写中国式现代化青海篇章"
+                                           target="_blank">
+                                              习近平在青海考察时强调：持续推进青藏高原生态保护和高质量发展 奋力谱写中国式现代化青海篇章
+                                          </a><span class="time">
+                                              06-21
+                                          </span></h4>
+                                  </li>
+
+
+                          </ul>
+                          <!--<ul class="infoList hadLin" id="home-gwyxx"></ul>-->
+
+                          </div>
+						<ul class="infoList hadLin">
+
+							<li>
+								<h4><a href="http://www.jiangxi.gov.cn/art/2024/7/3/art_393_4941545.html" title="精准研判 周密部署 努力把灾害损失降至最低"
+									 target="_blank">
+										精准研判 周密部署 努力把灾害损失降至最低
+									</a><span class="time">
+										2024-07-03
+									</span></h4>
+							</li>
+
+							<li>
+								<h4><a href="http://www.jiangxi.gov.cn/art/2024/7/3/art_393_4941522.html" title="国内首条直飞至挪威 全货运航线顺利首航"
+									 target="_blank">
+										国内首条直飞至挪威 全货运航线顺利首航
+									</a><span class="time">
+										2024-07-03
+									</span></h4>
+							</li>
+
+							<li>
+								<h4><a href="http://www.jiangxi.gov.cn/art/2024/7/3/art_393_4941528.html" title="江西统筹资金支持再生资源回收体系建设"
+									 target="_blank">
+										江西统筹资金支持再生资源回收体系建设
+									</a><span class="time">
+										2024-07-03
+									</span></h4>
+							</li>
+
+							<li>
+								<h4><a href="http://www.jiangxi.gov.cn/art/2024/7/3/art_393_4941534.html" title="做好涝旱急转准备 严防风雹和地质灾害"
+									 target="_blank">
+										做好涝旱急转准备 严防风雹和地质灾害
+									</a><span class="time">
+										2024-07-03
+									</span></h4>
+							</li>
+
+							<li>
+								<h4><a href="http://www.jiangxi.gov.cn/art/2024/7/3/art_393_4941540.html" title="我省启动四级救灾应急响应"
+									 target="_blank">
+										我省启动四级救灾应急响应
+									</a><span class="time">
+										2024-07-03
+									</span></h4>
+							</li>
+
+						</ul>
+						<ul class="infoList hadLin">
+
+								<li>
+									<h4><a href="/ncszf/bmdt/202407/8a83cd82fe664732a2a53f923ed0af13.shtml" title="市林业局召开财务工作培训暨林业生态建设资金清算会"
+										 target="_blank">
+											市林业局召开财务工作培训暨林业生态建设资金清算会
+										</a><span class="time">
+											2024-07-02
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/bmdt/202407/82aea574220d49b1b9efe4dcecf8e447.shtml" title="市水利局开展水利工程招标投标领域市场和履约监管检查"
+										 target="_blank">
+											市水利局开展水利工程招标投标领域市场和履约监管检查
+										</a><span class="time">
+											2024-07-01
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/bmdt/202406/fce6316da8474a07b17f3b9e5f1427f1.shtml" title="市工信局开展习近平法治思想暨法治素养提升集中学习培训"
+										 target="_blank">
+											市工信局开展习近平法治思想暨法治素养提升集中学习培训
+										</a><span class="time">
+											2024-06-28
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/bmdt/202406/b81f9ef37c434ae0a5a8303c0491a3a4.shtml" title="南昌市市场监督管理局召开全市市场监管系统电动自行车安全暨烟花爆竹整治专项行动部署会"
+										 target="_blank">
+											南昌市市场监督管理局召开全市市场监管系统电动自行车安全暨烟花爆竹整治专项行动部署会
+										</a><span class="time">
+											2024-06-28
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/bmdt/202406/3b320da13ed94a2b81df39bd4693fa74.shtml" title="市城管执法局召开燃气安全重大事故隐患判定标准宣贯活动"
+										 target="_blank">
+											市城管执法局召开燃气安全重大事故隐患判定标准宣贯活动
+										</a><span class="time">
+											2024-06-28
+										</span></h4>
+								</li>
+
+
+						</ul>
+						<ul class="infoList hadLin">
+
+								<li>
+									<h4><a href="/ncszf/xqdt/202407/082311c9dd2048ae896b3c6288b47bd8.shtml" title="青云谱区雨污分流改造再提速"
+										 target="_blank">
+											青云谱区雨污分流改造再提速
+										</a><span class="time">
+											2024-07-03
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/xqdt/202407/928786933ea44ad8b8920ec03a3273b1.shtml" title="南昌经开区：以党建引领企业高质高效发展"
+										 target="_blank">
+											南昌经开区：以党建引领企业高质高效发展
+										</a><span class="time">
+											2024-07-02
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/xqdt/202407/1d1ef95f3ccb4645b0633cabecc4e56d.shtml" title="南昌高新区“百园百校万企”创新合作行动启动"
+										 target="_blank">
+											南昌高新区“百园百校万企”创新合作行动启动
+										</a><span class="time">
+											2024-07-01
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/xqdt/202406/142c5cc036d24a21aa2475a3c0b374c2.shtml" title="红谷滩区基层理论微宣讲决赛举行"
+										 target="_blank">
+											红谷滩区基层理论微宣讲决赛举行
+										</a><span class="time">
+											2024-06-29
+										</span></h4>
+								</li>
+
+								<li>
+									<h4><a href="/ncszf/xqdt/202406/38ed1ebc332640ae8a10281f12b35ecd.shtml" title="湾里管理局：通力协作查隐患救险情"
+										 target="_blank">
+											湾里管理局：通力协作查隐患救险情
+										</a><span class="time">
+											2024-06-28
+										</span></h4>
+								</li>
+
+
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="right_box">
+				<div class="zttj_box">
+                   <div class="gsgg_pic" style="margin-bottom: 10px;"><a  href="https://www.nc.gov.cn/jczwgk/hdyg/202406/329af59b3243458b879f0b577d7fb5f0.shtml" title="政府开放周" target="_blank"  class="gwy"><img title="政府开放周" src="/ncszf/xhtml/2021/images/zfkfz_index.png" /></a></div>
+					<div class="public_hd"><a href="/ncszf/ztbd/2021_ztzl.shtml" target="_blank">专题推荐</a></div>
+                    <!--<div class="zttj_slide">
+                      <div id="zttjCarousel" class="owl-carousel">
+                          <div class="item">
+                            <a href="https://www.gov.cn/zhengce/zczhjd/" title="国务院重要政策举措及实施效果" target="_blank">
+                              <img src="
+" title="国务院重要政策举措及实施效果" alt="国务院重要政策举措及实施效果">
+                            </a>
+                          </div>
+                          <div class="item">
+                            <a href="/jczwgk/index.shtml" title="南昌市基层政务公开" target="_blank">
+                              <img src="
+" title="南昌市基层政务公开" alt="南昌市基层政务公开">
+                            </a>
+                          </div>
+                          <div class="item">
+                            <a href="https://www.nc.gov.cn/ncszf/zcjdzt/zcjd.shtml" title="政策解读专题" target="_blank">
+                              <img src="
+" title="政策解读专题" alt="政策解读专题">
+                            </a>
+                          </div>
+
+                      </div>
+                    </div>-->
+                    <div class="zttj_swiper swiper-container">
+                      <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                          <ul class="ztzl_list ul1 clearfix">
+
+                              <li>
+                                <a href="https://www.gov.cn/zhengce/zczhjd/" title="国务院重要政策举措及实施效果"  target="_blank" class="elli-s">
+                                  国务院重要政策举措及实施效果
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="/jczwgk/index.shtml" title="南昌市基层政务公开"  target="_blank" class="elli-s">
+                                  南昌市基层政务公开
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="https://www.nc.gov.cn/ncszf/zcjdzt/zcjd.shtml" title="政策解读专题"  target="_blank" class="elli-s">
+                                  政策解读专题
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="https://www.nc.gov.cn/ncszf/jjhjbhdchtk/2020_bhzt_list.shtml" title="中央生态环境保护督察"  target="_blank" class="elli-s">
+                                  中央生态环境保护督察
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="/ncszf/2023yearwzgzndbb/2023ndbb.shtml" title="2023年政府网站工作年度报表"  target="_blank" class="elli-s">
+                                  2023年政府网站工作年度报表
+                                </a>
+                              </li>
+
+                          </ul>
+                        </div><!--swiper-slide End-->
+                        <div class="swiper-slide">
+                          <ul class="ztzl_list ul2 clearfix">
+
+                              <li>
+                                <a href="/ncszf/2023year/2023xxgknbzt.shtml" title="2023年南昌市政府信息公开工作年度报告"  target="_blank" class="elli-s">
+                                  2023年南昌市政府信息公开工作年度报告
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="http://www.nc.gov.cn/jj1hfzgc/index.shtml" title="聚焦“一号发展工程” 全力发展数字经济"  target="_blank" class="elli-s">
+                                  聚焦“一号发展工程” 全力发展数字经济
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="http://www.nc.gov.cn/yshj/index.shtml" title="优化营商环境"  target="_blank" class="elli-s">
+                                  优化营商环境
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="http://www.nc.gov.cn/ncszf/czzjxx/czzt.shtml" title="财政公开专栏"  target="_blank" class="elli-s">
+                                  财政公开专栏
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="http://www.nc.gov.cn/ncszf/zcwdpt/zcwdk_ind.shtml" title="南昌市政策问答平台"  target="_blank" class="elli-s">
+                                  南昌市政策问答平台
+                                </a>
+                              </li>
+
+                          </ul>
+                        </div><!--swiper-slide End-->
+                        <div class="swiper-slide">
+                          <ul class="ztzl_list ul3 clearfix">
+
+                              <li>
+                                <a href="https://www.nc.gov.cn/ncszf/gfxwjtyfbpt/zcwjk.shtml" title="政策文件库"  target="_blank" class="elli-s">
+                                  政策文件库
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="http://www.gov.cn/zhuanti/zggcddescqgdbdh/index.htm" title="中国共产党第二十次全国代表大会"  target="_blank" class="elli-s">
+                                  中国共产党第二十次全国代表大会
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="http://www.nc.gov.cn/jwmsxf/indexn.shtml" title="讲文明 树新风"  target="_blank" class="elli-s">
+                                  讲文明 树新风
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="http://www.nc.gov.cn/ncszf/2022year/2022xxgknbzt.shtml" title="2022年南昌市政府信息公开工作年度报告"  target="_blank" class="elli-s">
+                                  2022年南昌市政府信息公开工作年度报告
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="http://www.nc.gov.cn/ncszf/2022yearwzgzndbb/2022ndbb.shtml" title="2022年政府网站工作年度报表"  target="_blank" class="elli-s">
+                                  2022年政府网站工作年度报表
+                                </a>
+                              </li>
+
+                          </ul>
+                        </div><!--swiper-slide End-->
+                      </div>
+                      <div class="zttj_swiper_page swiper-page-set"></div>
+                    </div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+    <!--第二屏 end-->
+    <!--第三屏 start-->
+     <div class="section">
+	<div class="home_div home_div03">
+		<div class="container">
+			<div class="zwgk_tit"><a href="/ncszf/zwgknew/jump.shtml" target="_blank"><img
+					 title="政务公开" src="/ncszf/xhtml/2021/images/zwgk_tit.png" /></a></div>
+			<div class="zwgk_box">
+				<div class="zwgk_left">
+					<div class="common_box">
+						<div class="hd">
+							<ul>
+								<li><span><a href="http://www.jiangxi.gov.cn/col/col443/index.html" target="_blank">省政府文件</a></span></li>
+								<li><span><a href="/ncszf/gfxwj/zfxxgk_list_tj.shtml" target="_blank">市政府文件</a></span></li>
+								<li><span><a href="/ncszf/zcjda/jump.shtml" target="_blank">政策解读</a></span></li>
+							</ul>
+						</div>
+						<div class="common-bd bd">
+							<!--<ul class="infoList hadLin" id="zfwj">-->
+							<ul class="infoList hadLin">
+
+									<li>
+										<h4><a href="http://www.jiangxi.gov.cn/art/2024/6/24/art_4969_4930429.html" title="江西省人民政府关于同意设立南昌技师学院的批复"
+											 target="_blank">
+												江西省人民政府关于同意设立南昌技师学院的批复
+											</a><span class="time">
+												2024-06-24
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="http://www.jiangxi.gov.cn/art/2024/6/19/art_4975_4923024.html" title="江西省人民政府关于进一步推进法治政府建设的若干意见"
+											 target="_blank">
+												江西省人民政府关于进一步推进法治政府建设的若干意见
+											</a><span class="time">
+												2024-06-19
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="http://www.jiangxi.gov.cn/art/2024/6/18/art_4969_4924138.html" title="江西省人民政府关于设置江西职业技术大学的通知"
+											 target="_blank">
+												江西省人民政府关于设置江西职业技术大学的通知
+											</a><span class="time">
+												2024-06-18
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="http://www.jiangxi.gov.cn/art/2024/6/5/art_4969_4902532.html" title="江西省人民政府关于加强消防“生命通道”管理的通告"
+											 target="_blank">
+												江西省人民政府关于加强消防“生命通道”管理的通告
+											</a><span class="time">
+												2024-06-05
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="http://www.jiangxi.gov.cn/art/2024/5/8/art_4975_4867492.html" title="江西省人民政府关于印发《江西省推动大规模设备更新和消费品以旧换新实施方案》的通知"
+											 target="_blank">
+												江西省人民政府关于印发《江西省推动大规模设备更新和消费品以旧换新实施方案》的通知
+											</a><span class="time">
+												2024-05-08
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="http://www.jiangxi.gov.cn/art/2024/4/26/art_4969_4859393.html" title="江西省人民政府关于同意划定及撤销部分集中式饮用水水源保护区范围的批复"
+											 target="_blank">
+												江西省人民政府关于同意划定及撤销部分集中式饮用水水源保护区范围的批复
+											</a><span class="time">
+												2024-04-26
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="http://www.jiangxi.gov.cn/art/2024/4/12/art_4975_4845651.html" title="江西省人民政府关于进一步优化政务服务提升行政效能推动“高效办成一件事”的实施意见"
+											 target="_blank">
+												江西省人民政府关于进一步优化政务服务提升行政效能推动“高效办成一件事”的实施意见
+											</a><span class="time">
+												2024-04-12
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="http://www.jiangxi.gov.cn/art/2024/4/10/art_4969_4844615.html" title="江西省人民政府关于聘任佟平等19名同志为2023年“赣鄱俊才支持计划·高校领军人才培养项目..."
+											 target="_blank">
+												江西省人民政府关于聘任佟平等19名同志为2023年“赣鄱俊才支持计划·高校领军人才培养项目...
+											</a><span class="time">
+												2024-04-10
+											</span></h4>
+									</li>
+
+
+							</ul>
+							<ul class="infoList hadLin" id="szfwj">
+								<!-- 
+
+									<li>
+										<h4><a href="/ncszf/qtygwj/202406/d51848f764004b73819d7a9463d848c2.shtml" title="南昌市人民政府关于印发2024年民生实事安排方案的通知"
+											 target="_blank">
+												南昌市人民政府关于印发2024年民生实事安排方案的通知
+											</a><span class="time">
+												2024-06-12
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/gfxwj/202405/5a1377e7535f4a2bbe357b17a76c21f6.shtml" title="南昌市人民政府办公室关于印发《南昌市港区外水路客运船舶停靠点管理指导意见（试行）》的通知"
+											 target="_blank">
+												南昌市人民政府办公室关于印发《南昌市港区外水路客运船舶停靠点管理指导意见（试行）》的通知
+											</a><span class="time">
+												2024-05-31
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/qtygwj/202405/422c22c996264fa9b4d643d273152e1f.shtml" title="南昌市人民政府关于调整市政府工作部门派出机构行政复议管辖权的通告"
+											 target="_blank">
+												南昌市人民政府关于调整市政府工作部门派出机构行政复议管辖权的通告
+											</a><span class="time">
+												2024-05-29
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/qtygwj/202405/4c0dd2ee65a142f382445ffb63cd14dd.shtml" title="南昌市人民政府关于公布南昌市生态环境分区管控成果（2023年版）的通知"
+											 target="_blank">
+												南昌市人民政府关于公布南昌市生态环境分区管控成果（2023年版）的通知
+											</a><span class="time">
+												2024-05-28
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/qtygwj/202405/3bdde5b8deda47639c4786c961ac6553.shtml" title="南昌市人民政府关于印发《南昌市农村“两站两员”运行机制》的通知"
+											 target="_blank">
+												南昌市人民政府关于印发《南昌市农村“两站两员”运行机制》的通知
+											</a><span class="time">
+												2024-05-28
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/qtygwj/202405/5f79ee0ef02046e8aae50ad649ba7d05.shtml" title="南昌市人民政府关于印发南昌市推动大规模设备更新和消费品以旧换新行动方案的通知"
+											 target="_blank">
+												南昌市人民政府关于印发南昌市推动大规模设备更新和消费品以旧换新行动方案的通知
+											</a><span class="time">
+												2024-05-28
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/gfxwj/202405/bf52cf1756b34f85814c702d35f110d2.shtml" title="南昌市人民政府办公室关于印发南昌市推进预制菜产业发展若干措施（试行）的通知"
+											 target="_blank">
+												南昌市人民政府办公室关于印发南昌市推进预制菜产业发展若干措施（试行）的通知
+											</a><span class="time">
+												2024-05-20
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/qtygwj/202404/09f8c57e6d004afca9eb2286a76d7f65.shtml" title="南昌市人民政府关于印发南昌市深入推进质量强市建设实施方案的通知"
+											 target="_blank">
+												南昌市人民政府关于印发南昌市深入推进质量强市建设实施方案的通知
+											</a><span class="time">
+												2024-04-17
+											</span></h4>
+									</li>
+ -->
+
+							</ul>
+							<ul class="infoList hadLin">
+
+									<li>
+										<h4><a href="/ncszf/zctj/202406/0a106e4bfb4d42e889766a82d82dfa56.shtml" title="图解：2024年南昌市政务公开工作要点"
+											 target="_blank">
+												图解：2024年南昌市政务公开工作要点
+											</a><span class="time">
+												2024-06-14
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/zctj/202406/1c5250ce45064a54bf0fd189668a6ca8.shtml" title="图解：南昌市人民政府办公室关于印发2024年南昌市政务公开工作要点的通知"
+											 target="_blank">
+												图解：南昌市人民政府办公室关于印发2024年南昌市政务公开工作要点的通知
+											</a><span class="time">
+												2024-06-05
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/zctj/202406/64633e8c51a04dccb78422e11b6a8ee3.shtml" title="图解：南昌市人民政府办公室关于印发《南昌市港区外水路客运船舶停靠点管理指导意见（试行）》的通知"
+											 target="_blank">
+												图解：南昌市人民政府办公室关于印发《南昌市港区外水路客运船舶停靠点管理指导意见（试行）》的通知
+											</a><span class="time">
+												2024-05-31
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/wzjd/202406/bcd6f52b4c4a42d292a53991adb43eeb.shtml" title="【文字解读】《南昌市港区外水路客运船舶停靠点管理指导意见（试行）》政策解读"
+											 target="_blank">
+												【文字解读】《南昌市港区外水路客运船舶停靠点管理指导意见（试行）》政策解读
+											</a><span class="time">
+												2024-05-31
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/zctj/202406/ab09304207b44e4f8f4757a774192c99.shtml" title="图解：南昌市农村“两站两员”运行机制"
+											 target="_blank">
+												图解：南昌市农村“两站两员”运行机制
+											</a><span class="time">
+												2024-05-30
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/wzjd/202406/da31f40886c74cfe9efd67da2ec13eb5.shtml" title="【文字解读】《南昌市农村“两站两员”运行机制》政策解读"
+											 target="_blank">
+												【文字解读】《南昌市农村“两站两员”运行机制》政策解读
+											</a><span class="time">
+												2024-05-30
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/wzjd/202406/b48da56b9af9425da0885a67ea26a885.shtml" title="【文字解读】《南昌市推动大规模设备更新和消费品以旧换新行动方案》政策解读"
+											 target="_blank">
+												【文字解读】《南昌市推动大规模设备更新和消费品以旧换新行动方案》政策解读
+											</a><span class="time">
+												2024-05-28
+											</span></h4>
+									</li>
+
+									<li>
+										<h4><a href="/ncszf/xwfbhjd/202405/3a1304421f5f49e79a3c89eddb90c858.shtml" title="南昌市举行2024年“安全生产月”活动新闻发布会"
+											 target="_blank">
+												南昌市举行2024年“安全生产月”活动新闻发布会
+											</a><span class="time">
+												2024-05-24
+											</span></h4>
+									</li>
+
+
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="zwgk_right">
+					<div class="zfxxgk_div common_box">
+						<div class="hd">
+							<ul>
+								<li><span><a href="/ncszf/ncsxxgk/jump.shtml" target="_blank">政府信息公开</a></span></li>
+							</ul>
+						</div>
+						<div class="zfxxgk_bd">
+							<ul>
+
+								<li><a href="/ncszf/szfxxgkzn/zfxxgkzn.shtml" target="_blank">政府信息公开指南</a></li>
+								<li><a href="/ncszf/szfxxgkzd/zfxxgk_list.shtml" target="_blank">政府信息公开制度</a></li>
+								<li><a href="/ncszf/jcgk1/jump.shtml" target="_blank">法定主动公开内容</a></li>
+								<li><a href="/ncszf/szfxxgknb/jump.shtml" target="_blank">政府信息公开年报</a></li>
+								<li><a href="http://www.nc.gov.cn/ncszf/ysq/ysqindex.shtml" target="_blank">依申请公开</a></li>
+								<li><a href="/ncszf/wzgzndbb/2021zfxxgk_list.shtml" target="_blank">网站工作年度报表</a></li>
+								<li><a href="/ncszf/szxqxxgk/zfxxgk_bmxxgk.shtml" target="_blank">部门信息公开</a></li>
+								<li><a href="/ncszf/szxqxxgk/zfxxgk_bmxxgk.shtml" target="_blank">县区信息公开</a></li>
+							</ul>
+						</div>
+						<div class="zwgk_pic">
+							<ul>
+								<li><a href="/ncszf/zdlyxxa/zdly.shtml" target="_blank"><img title="重点领域信息"
+										 src="/ncszf/xhtml/2021/images/zdly_pic.jpg" /></a></li>
+								<li><a href="/ncszf/zcjda/jump.shtml" target="_blank"><img title="政策解读"
+										 src="/ncszf/xhtml/2021/images/wgk_pic.jpg" /></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+				<div class="zwgk_bottom">
+					<ul>
+						<li><a href="/ncszf/szfld/2021_ld_collection.shtml" target="_blank">政府领导</a></li>
+						<li><a href="/nczfgb/year2024/jump.shtml" target="_blank">政府公报</a></li>
+						<li>
+							<a href="/ncszf/czzjxx/jump.shtml"  target="_blank">财政资金信息</a>
+						</li>
+						<li><a href="/ncszf/gzk/gzk.shtml" target="_blank">规章库</a></li>
+						<li>
+							<a href="/ncszf/rsxx1/jump.shtml"  target="_blank">人事信息</a>
+						</li>
+						<li>
+							<a href="/ncszf/zfhya/jump.shtml"  target="_blank">政府会议</a>
+						</li>
+						<li>
+							<a href="/ncszf/fzgh2021/jump.shtml"  target="_blank">发展规划</a>
+						</li>
+
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	$(function() {
+		$.ajax({
+			url: "/u/search/list/5ba35ed57a204f5b9e58890bb1a2484f",
+			type: "POST",
+			dataType: "json",
+			data: {
+				"chanlid": "1cb8e11f2932465e9cf5a876fa428885@d14679a00db247d48a43e278c0504407",
+				"currentPage": 1,
+				"number": 8
+			},
+			success: function(res) {
+				var datahtml = "";
+				if (res.data.page.list) {
+					console.log(res.data.page.list.length)
+					for (var i = 0; i < res.data.page.list.length; i++) {
+
+						datahtml += "<li><h4>" +
+							"<a href='http://www.nc.gov.cn" + res.data.page.list[i].URL_COMP + "' title='" + res.data.page.list[i].TITLE +
+							"' target='_blank'>" + res.data.page.list[i].TITLE + "</a>" +
+							"<span class='time'>" + res.data.page.list[i].PUBLISHED_TIME_FORMATED.slice(0, 10) + "</span>" +
+							"</h4></li>"
+					}
+				}
+				$("#szfwj").html(datahtml);
+			}
+		})
+	})
+</script>
+    <!--第三屏 end-->
+    <!--第四屏 start-->
+    <div class="section">
+				<div class="home_div home_div04">
+					<div class="container">
+						<div class="zwgk_tit"><a href="http://nc.jxzwfww.gov.cn/" target="_blank"><img title="政务服务" src="/ncszf/xhtml/2021/images/zwfw_tit.png" /></a></div>
+						<div class="zwfww_div">
+							<ul>
+								<li class="li01">
+									<a href="http://nc.jxzwfww.gov.cn/" target="_blank">
+										<span>全国一体化在线政务服务平台</span>
+										<font>江西政务服务网</font>
+									</a>
+
+								</li>
+								<li class="li02"><a>欢迎来到江西省南昌市</a></li>
+							</ul>
+						</div>
+						<div class="grfw_div common_box">
+							<div class="hd">
+								<ul>
+									<li><a href="https://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj" target="_blank">个人服务</a></li>
+									<li><a href="https://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj" target="_blank">法人服务</a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000201045000&flag=gj" target="_blank">部门服务</a></li>
+
+								</ul>
+							</div>
+							<div class="bd">
+								<ul class="grfw_bd">
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=5E9D25E68E3F4E15BBCCCB3DBE82570F" title="生育收养" target="_blank">
+                                        <img src="/ncszf/grfw/202010/d71fef7091144655a88e6aafcd50d207/images/ad2eabed4cc54138955f863d4d0650b1.png
+" title="生育收养" >
+                                      <span>生育收养</span>
+                                      </a></li>
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=D694FC6734E04FB2B820309D613A8B98" title="教育科研" target="_blank">
+                                        <img src="/ncszf/grfw/202010/ffc4bc84e4c84b51a939d1233be8f06b/images/c812f30fc75549f0af1db08898bf3456.png
+" title="教育科研" >
+                                      <span>教育科研</span>
+                                      </a></li>
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=9F4ABBB80A634EDABB2B8EEB5D740ED3" title="民族宗教" target="_blank">
+                                        <img src="/ncszf/grfw/202010/bdb6ae62f85a4af0bd0ea5d25cacb393/images/07991de6c6a74aed865f5c6d9a70e7b5.png
+" title="民族宗教" >
+                                      <span>民族宗教</span>
+                                      </a></li>
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=98D906563D2E44B786F0DF40FBEF747B" title="优待抚恤" target="_blank">
+                                        <img src="/ncszf/grfw/202010/980b7939ca0d4a0e9618396c4aaeb92b/images/a02b689113e1482697021d1076b06567.png
+" title="优待抚恤" >
+                                      <span>优待抚恤</span>
+                                      </a></li>
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=DA378A29610945A6B062799555F24361" title="就业创业" target="_blank">
+                                        <img src="/ncszf/grfw/202010/87c0881a24904858bbb82956c7ee05b5/images/4a933f8d4b054643845f07e97a2fdc64.png
+" title="就业创业" >
+                                      <span>就业创业</span>
+                                      </a></li>
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=47434A5DDCA04A348C941D40FA21DD69" title="婚姻登记" target="_blank">
+                                        <img src="/ncszf/grfw/202010/6ae3ff649f864b849d99732785aa71af/images/1dd236afa565476eb31ef1185b8aff03.png
+" title="婚姻登记" >
+                                      <span>婚姻登记</span>
+                                      </a></li>
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=A4CF83E1161A462EB358B7E87B8D9474" title="准营准办" target="_blank">
+                                        <img src="/ncszf/grfw/202010/56bec2ec02d143f1a919a42c57801702/images/db155c4c53664edab7dca22b995381a9.png
+" title="准营准办" >
+                                      <span>准营准办</span>
+                                      </a></li>
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=2A21473EA0BA4503B7DEF81A8F9A71EE" title="住房保障" target="_blank">
+                                        <img src="/ncszf/grfw/202010/999f1062d38f43599778f372d1b49483/images/7339fab6a5b34d03842ee00e9d38931a.png
+" title="住房保障" >
+                                      <span>住房保障</span>
+                                      </a></li>
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=8C1EA6D6327A4A01B05953274CBA235F" title="职业资格" target="_blank">
+                                        <img src="/ncszf/grfw/202010/8bcdc20612d04bed84b23f305b786011/images/61c6168c380b4fa68029899d4ecc5d00.png
+" title="职业资格" >
+                                      <span>职业资格</span>
+                                      </a></li>
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=23C82762D93442CBBB38E3CE4BE3C1BA" title="医疗卫生" target="_blank">
+                                        <img src="/ncszf/grfw/202010/097778f2c67d4e21935ff7748a000400/images/6a4cc9ff36ff4782a479548fc0a92353.png
+" title="医疗卫生" >
+                                      <span>医疗卫生</span>
+                                      </a></li>
+									<li>
+                                      <a href="http://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj&regionCode=360100000000&serviceObject=1&themeCode=3FCEE2072BDC45C6A1C6DC62AF30FD8A" title="设立变更" target="_blank">
+                                        <img src="/ncszf/grfw/202010/e1c98a4e0f07490ebb88250349628892/images/0eb56002ba0e47ea9b3aab1583d05c3d.png
+" title="设立变更" >
+                                      <span>设立变更</span>
+                                      </a></li>
+
+									<li><a  href="https://nc.jxzwfww.gov.cn/col/col61062/index.html?flag=gj" target="_blank"><img src="/ncszf/xhtml/2021/images/grfw_icon12.png"><span>更多</span></a></li>
+
+								</ul>
+								<ul class="frfw_bd">
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=0E68A4F434364ACA80001B112AC7514C" title="国土和规划建设" target="_blank"><img src="/ncszf/qyfw/202010/ca0022a152c847f7b4b4413337dc7955/images/bcde0fed14ad45958a6ed319a400f4d6.png
+" title="国土和规划建设"><span>国土和规划建设</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=CF3B03FD69F745B9AECEA83810AB45CC" title="设立变更" target="_blank"><img src="/ncszf/qyfw/202010/218a3de06edf44a6aeda66e92cda0ab5/images/a0a665713e544436814df821cc556057.png
+" title="设立变更"><span>设立变更</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=49065C0B8B0C4F598ADA465BB304B9F2" title="准营准办" target="_blank"><img src="/ncszf/qyfw/202010/cfe69727a6384babb287025e31aa9029/images/58b2466d2bd74fd7b5ecb77de3f551c5.png
+" title="准营准办"><span>准营准办</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=E619D01413D741CFA887F4F273E99B82" title="资质认证" target="_blank"><img src="/ncszf/qyfw/202010/6f5c07098cf4478989693159442b2402/images/121d7bd9cf4441608dc276639e56c7de.png
+" title="资质认证"><span>资质认证</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=539E8B86FB78483181B619A2FAE7648A" title="年检年审" target="_blank"><img src="/ncszf/qyfw/202010/18e86181803e47e796b62fda64222e32/images/55f2c4f9de304559958fcb389a9640d6.png
+" title="年检年审"><span>年检年审</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=4466269B6A4C486187A97AA634262872" title="税收财务" target="_blank"><img src="/ncszf/qyfw/202010/f7b7d94b89df4a3f8d525b59d23acd1f/images/fa6446f90d874df6915fe6ef77cdc4be.png
+" title="税收财务"><span>税收财务</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=EEBFF2628F9F43418396719E5E2D2046" title="社会保障" target="_blank"><img src="/ncszf/qyfw/202010/8fae75c0868a429aafc572c616b1e77c/images/5e5290453b514bbf9c5204bc4f4d37a0.png
+" title="社会保障"><span>社会保障</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=5A7440AB19824E29BC771B0F51035409" title="抵押质押" target="_blank"><img src="/ncszf/qyfw/202010/64ecf0b4ae1542609d91339ffed62aed/images/9266cd5dd3ce4045949a5cfcca2d9b50.png
+" title="抵押质押"><span>抵押质押</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=4183F58BB2954917BB1BD20F93F3CE7B" title="商务贸易" target="_blank"><img src="/ncszf/qyfw/202010/ed7318a22103404b9bc3f0276e7d6a2a/images/542d2f3d9b1946299bcfa8d3455b4802.png
+" title="商务贸易"><span>商务贸易</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=9928C683E73F4FEDBE41FA125B825126" title="招标拍卖" target="_blank"><img src="/ncszf/qyfw/202010/090443305d1b4a51ad9c24bd20642305/images/d7a58474ae0748d48b37779b7839f7e8.png
+" title="招标拍卖"><span>招标拍卖</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj&regionCode=360100000000&serviceObject=2&themeCode=9BB575F70BB946DDA14E7C73C203D3AD" title="海关口岸" target="_blank"><img src="/ncszf/qyfw/202010/75851741b8564520b8a35a7d3b51244a/images/1b5c6fa1c1f943439466a0d5b8c96623.png
+" title="海关口岸"><span>海关口岸</span></a></li>
+
+									<li><a  href="https://nc.jxzwfww.gov.cn/col/col61061/index.html?flag=gj" target="_blank"><img src="/ncszf/xhtml/2021/images/grfw_icon12.png"><span>更多</span></a></li>
+									
+
+
+
+								</ul>
+								<ul class="bmfw_bd">
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000201004000&flag=gj" title="公共教育" target="_blank"><img src="/ncszf/ggfw/202010/ea625a05ff52443bbe0058cd1c5fabf2/images/e9abf2374f414954bcad98ffe77623b0.png
+" title="公共教育"><span>公共教育</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000201011000&flag=gj" title="劳动就业" target="_blank"><img src="/ncszf/ggfw/202010/722cf7ad365344a7a928202138ae7018/images/0b675b7c0de047bca37bb018a440a843.png
+" title="劳动就业"><span>劳动就业</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000201065000&flag=gj" title="建筑工程" target="_blank"><img src="/ncszf/ggfw/202010/ba9e02be8991460197fe2eab4e9f18eb/images/13cb1d28b3d2459dba6803d2507cea78.png
+" title="建筑工程"><span>建筑工程</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000201008000&flag=gj" title="社会服务" target="_blank"><img src="/ncszf/ggfw/202010/13eb06fb90dd40069a534628547c6ea1/images/d746ea0606fe405585361c6ce9e70469.png
+" title="社会服务"><span>社会服务</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000909004000&flag=gj" title="医疗卫生" target="_blank"><img src="/ncszf/ggfw/202010/9962256ae65247d9a5fdfae46f25fd09/images/318aebbb29b146039a898ebad9ad20fd.png
+" title="医疗卫生"><span>医疗卫生</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000201033000&flag=gj" title="文化体育" target="_blank"><img src="/ncszf/ggfw/202010/1e213eaa8d7846fbbe558334dab8e30b/images/102902746aec460985d7ba20816a108b.png
+" title="文化体育"><span>文化体育</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000201020000&flag=gj" title="文物保护" target="_blank"><img src="/ncszf/ggfw/202010/f23148e7edf847769558b1518978ae13/images/2a677d6057614e9ba4625ca0f6a19f18.png
+" title="文物保护"><span>文物保护</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000201023000&flag=gj" title="三农服务" target="_blank"><img src="/ncszf/ggfw/202010/b16eda1b69df497299dd5aa9625bba81/images/c1c563ef0126400aa6004577021b7b7f.png
+" title="三农服务"><span>三农服务</span></a></li>
+									<li><a href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000201009000&flag=gj" title="司法公正" target="_blank"><img src="/ncszf/ggfw/202010/53e2cc2cd6034287a186902da16b263f/images/cbe35be398704464920c9591279542b6.png
+" title="司法公正"><span>司法公正</span></a></li>
+
+									<li><a  href="http://nc.jxzwfww.gov.cn/col/col61072/index.html?orgCode=360101000201045000&flag=gj" target="_blank"><img src="/ncszf/xhtml/2021/images/grfw_icon12.png"><span>更多</span></a></li>
+
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+    <!--第四屏 end-->
+    <!-- main End -->
+    <!--第五屏 start-->
+    <div class="section">
+      <div class="home_div home_div05">
+					<div class="container">
+						<div class="zwgk_tit"><a href="/ncszf/hdjln/2021_hdjl.shtml" target="_blank"><img title="互动交流" src="/ncszf/xhtml/2021/images/zmhd_tit.png" /></a><a href="http://www.gov.cn/hudong/index.htm"  title="@国务院 我来说" target="_blank"  class="gwywls"><img title="@国务院 我来说" src="/ncszf/xhtml/2021/images/zmhd_gwy.png" /></a></div>
+						<div class="zmhd_box">
+							<div class="zmhd_left ">
+								<div class="common_box">
+									<div class="hd">
+										<ul>
+											<li><a href="/ncszf/hygqhdjl/2021_xjlist.shtml" target="_blank">回应关切</a></li>
+											<li><a href="/ncszf/zjdc/myzj_wsdc_list.shtml" target="_blank">征集调查</a></li>
+											<li><a href="/ncszf/cjwt/2021_list.shtml" target="_blank">常见问题</a></li>
+										</ul>
+									</div>
+									<div class="zxxhtx"><a href="/ghwd/znwd/index.html" target="_blank"><img title="小洪同学" src="/ncszf/xhtml/2021/images/zxxhtx.png" /></a></div>
+									<div class="bd">
+										<ul id="home-hdjl-hygq-list">
+											
+										</ul>
+										<ul id="home-hdjl-dczj-list">
+										</ul>
+                                      <ul id="home-hdjl-lxtj-list">
+		
+											<li><h4><a href="/ncszf/cjwt/202406/cd9cfbd2a5aa44fea800bcfe22ce4e54.shtml" title="2024年义务教育免试就近入学常见问题解答" target="_blank" > 2024年义务教育免试就近入学常见问题解答<i class="time">2024-06-27</i></a></h4></li>
+		
+											<li><h4><a href="/ncszf/cjwt/202406/9cd04fa774294cb88e297ee7f747a29e.shtml" title="南昌146条公交线路暂时停运" target="_blank" > 南昌146条公交线路暂时停运<i class="time">2024-06-25</i></a></h4></li>
+		
+											<li><h4><a href="/ncszf/cjwt/202406/dd1ae127b9804adda72b9f7b2e81295d.shtml" title="高考考生可凭准考证免费乘2元一票制公交车赴考" target="_blank" > 高考考生可凭准考证免费乘2元一票制公交车赴考<i class="time">2024-06-06</i></a></h4></li>
+		
+											<li><h4><a href="/ncszf/cjwt/202406/652dea0ffc68433d88f000b01e1ed3e3.shtml" title="南昌取消首套住房和二套住房商贷利率政策下限" target="_blank" > 南昌取消首套住房和二套住房商贷利率政策下限<i class="time">2024-06-05</i></a></h4></li>
+
+										</ul>
+										
+									</div>
+								</div>
+							</div>
+							<div class="zmhd_right">
+								<div class="zxft_box ">
+									<div class="common_box">
+										<div class="hd">
+											<ul>
+												
+												<li><a href="/ncszf/zbft01/2021_ftzb.shtml" target="_blank">谈政事</a></li>
+											</ul>
+										</div>
+										<div id="zxft_first">
+										 
+										</div>
+										
+										<div class="zxft_list" >
+											<ul id="home-hdjl-zxft-list">
+												
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="ssyx_box">
+									<ul>
+										<li><a  href="/ncszf/ldxx/LetterTransition.shtml" target="_blank">部门信箱</a></li>
+										<li><a href="/ncszf/12345rx/2021_wztt.shtml" target="_blank">12345热线</a></li>
+									<!--	<li><a href="/ncszf/cjwt/2021_list.shtml" target="_blank">常见问题</a></li> -->
+										<li><a href="https://wsxf.jx-xinfang.gov.cn/?orgid=360031702" target="_blank">网上信访</a></li>
+										<li><a href="/ncszf/twsl/2021_nav_list.shtml" target="_blank">新闻发布会</a></li>
+								<!--		<li class="last_li"><a href="/ncszf/tzgg/202309/28a428f27e85452f94c3f8e5045ee7db.shtml" target="_blank">涉未成年人<br>举报专区</a></li>  -->
+
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+      <!-- footer -->
+        <meta charset="utf-8">
+<div class="footer bggray">
+    <!-- 友情链接 -->
+    <div class="footer-links clearfix">
+      <div class="container">
+        <ul class="clearfix">
+                      <li class="item">
+              <dl>
+                <dt>市政府工作部门网站 <i ></i></dt>
+                <dd>
+                  
+
+                    <a href="http://fgw.nc.gov.cn/" target="_blank" title='南昌市发展和改革委员会'  >南昌市发展和改革委员会</a>
+
+                    <a href="http://edu.nc.gov.cn/" target="_blank" title='南昌市教育局'  >南昌市教育局</a>
+
+                    <a href="http://kjj.nc.gov.cn/" target="_blank" title='南昌市科学技术局'  >南昌市科学技术局</a>
+
+                    <a href="http://gxw.nc.gov.cn/" target="_blank" title='南昌市工业和信息化局'  >南昌市工业和信息化局</a>
+
+                    <a href="http://ncga.nc.gov.cn/" target="_blank" title='南昌市公安局'  >南昌市公安局</a>
+
+                    <a href="http://mzj.nc.gov.cn" target="_blank" title='南昌市民政局'  >南昌市民政局</a>
+
+                    <a href="http://sfj.nc.gov.cn/" target="_blank" title='南昌市司法局'  >南昌市司法局</a>
+
+                    <a href="http://czj.nc.gov.cn/" target="_blank" title='南昌市财政局'  >南昌市财政局</a>
+
+                    <a href="http://rsj.nc.gov.cn/" target="_blank" title='南昌市人力资源和社会保障局'  >南昌市人力资源和社会保障局</a>
+
+                    <a href="http://bnr.nc.gov.cn/" target="_blank" title='南昌市自然资源和规划局'  >南昌市自然资源和规划局</a>
+
+                    <a href="http://sthjj.nc.gov.cn/" target="_blank" title='南昌市生态环境局'  >南昌市生态环境局</a>
+
+                    <a href="http://zjj.nc.gov.cn/" target="_blank" title='南昌市住房和城乡建设局'  >南昌市住房和城乡建设局</a>
+
+                    <a href="http://cgw.nc.gov.cn/" target="_blank" title='南昌市城市管理和综合执法局'  >南昌市城市管理和综合执法局</a>
+
+                    <a href="http://ncjt.nc.gov.cn/" target="_blank" title='南昌市交通运输局'  >南昌市交通运输局</a>
+
+                    <a href="http://water.nc.gov.cn/" target="_blank" title='南昌市水利局'  >南昌市水利局</a>
+
+                    <a href="http://nyj.nc.gov.cn/" target="_blank" title='南昌市农业农村局'  >南昌市农业农村局</a>
+
+                    <a href="http://swj.nc.gov.cn/" target="_blank" title='南昌市商务局'  >南昌市商务局</a>
+
+                    <a href="http://wgxj.nc.gov.cn/" target="_blank" title='南昌市文化广电旅游局'  >南昌市文化广电旅游局</a>
+
+                    <a href="http://hc.nc.gov.cn/" target="_blank" title='南昌市卫生健康委员会'  >南昌市卫生健康委员会</a>
+
+                    <a href="http://tyjrswj.nc.gov.cn/" target="_blank" title='南昌市退役军人事务局'  >南昌市退役军人事务局</a>
+
+                    <a href="http://ajj.nc.gov.cn/" target="_blank" title='南昌市应急管理局'  >南昌市应急管理局</a>
+
+                    <a href="http://sjj.nc.gov.cn/" target="_blank" title='南昌市审计局'  >南昌市审计局</a>
+
+                    <a href="http://wqb.nc.gov.cn/" target="_blank" title='南昌市人民政府外事办公室'  >南昌市人民政府外事办公室</a>
+
+                    <a href="http://gzw.nc.gov.cn/ncsgzw/index.shtml" target="_blank" title='南昌市国有资产监督管理委员会'  >南昌市国有资产监督管理委员会</a>
+
+                    <a href="http://lyj.nc.gov.cn/" target="_blank" title='南昌市林业局'  >南昌市林业局</a>
+
+                    <a href="http://jrb.nc.gov.cn/" target="_blank" title='南昌市人民政府金融工作办公室'  >南昌市人民政府金融工作办公室</a>
+
+                    <a href="http://sgj.nc.gov.cn/" target="_blank" title='南昌市市场监督管理局'  >南昌市市场监督管理局</a>
+
+                    <a href="http://tyj.nc.gov.cn/" target="_blank" title='南昌市体育局'  >南昌市体育局</a>
+
+                    <a href="http://tjj.nc.gov.cn" target="_blank" title='南昌市统计局'  >南昌市统计局</a>
+
+                    <a href="http://rfb.nc.gov.cn/" target="_blank" title='南昌市人民防空办公室'  >南昌市人民防空办公室</a>
+
+                    <a href="http://ybj.nc.gov.cn/" target="_blank" title='南昌市医疗保障局'  >南昌市医疗保障局</a>
+
+                    <a href="http://jgj.nc.gov.cn/" target="_blank" title='南昌市机关事务管理局'  >南昌市机关事务管理局</a>
+
+                    <a href="http://xzspj.nc.gov.cn" target="_blank" title='南昌市政务服务和数据管理局'  >南昌市政务服务和数据管理局</a>
+
+                    <a href="http://zxqyfwj.nc.gov.cn/" target="_blank" title='南昌市中小企业服务局'  >南昌市中小企业服务局</a>
+                </dd>
+              </dl>
+            </li>
+            <li class="item">
+              <dl>
+                <dt>市政府直属事业单位网站 <i ></i></dt>
+                <dd>
+                  
+
+                    <a href="http://ncgl.nc.gov.cn/" target="_blank" title='南昌市公路事业发展中心'  >南昌市公路事业发展中心</a>
+                </dd>
+              </dl>
+            </li>
+            <li class="item">
+              <dl>
+                <dt>派出机构及驻外机构、园区开发区 <i ></i></dt>
+                <dd>
+                  
+
+                    <a href="http://nchdz.nc.gov.cn" target="_blank" title='南昌高新技术产业开发区管理委员会'  >南昌高新技术产业开发区管理委员会</a>
+
+                    <a href="http://ncjk.nc.gov.cn/" target="_blank" title='南昌经济技术开发区管理委员会'  >南昌经济技术开发区管理委员会</a>
+
+                    <a href="http://ncxl.nc.gov.cn/" target="_blank" title='南昌小蓝经济技术开发区管理委员会'  >南昌小蓝经济技术开发区管理委员会</a>
+
+                    <a href="http://wl.nc.gov.cn/" target="_blank" title='南昌湾里管理局'  >南昌湾里管理局</a>
+                </dd>
+              </dl>
+            </li>
+            <li class="item">
+              <dl>
+                <dt>县区政府网站 <i ></i></dt>
+                <dd>
+                  
+
+                    <a href="http://dhq.nc.gov.cn/" target="_blank" title='东湖区人民政府'  >东湖区人民政府</a>
+
+                    <a href="http://xhq.nc.gov.cn/" target="_blank" title='西湖区人民政府'  >西湖区人民政府</a>
+
+                    <a href="http://qyp.nc.gov.cn/" target="_blank" title='青云谱区人民政府'  >青云谱区人民政府</a>
+
+                    <a href="http://ncqsh.nc.gov.cn/" target="_blank" title='青山湖区人民政府'  >青山湖区人民政府</a>
+
+                    <a href="http://xjq.nc.gov.cn" target="_blank" title='新建区人民政府'  >新建区人民政府</a>
+
+                    <a href="http://hgt.nc.gov.cn/" target="_blank" title='红谷滩区人民政府'  >红谷滩区人民政府</a>
+
+                    <a href="http://ncx.nc.gov.cn/" target="_blank" title='南昌县人民政府'  >南昌县人民政府</a>
+
+                    <a href="http://jxx.nc.gov.cn" target="_blank" title='进贤县人民政府'  >进贤县人民政府</a>
+
+                    <a href="http://anyi.nc.gov.cn/" target="_blank" title='安义县人民政府'  >安义县人民政府</a>
+                </dd>
+              </dl>
+            </li>
+        </ul>
+      </div>
+    </div>
+    <!-- 友情链接 End -->
+
+    <!-- 板块信息 -->
+    <div class="footer-mode">
+      <div class="container clearfix">
+        <!-- 网站信息 -->
+        <div class="footer-menu">
+          <ul class="clearfix">
+            <li><a href="/ncszf/wzdt/2021_wzdt.shtml" target="_parent">网站地图</a></li>
+            
+            <li><a href="/ncszf/gywm/2021_wztt.shtml" target="_parent">关于我们</a></li>
+         <!--   <li><a href="" target="_parent">怀念旧站</a></li>-->
+            <li><a href="/ncszf/yssm/2021_wztt.shtml" target="_parent">隐私声明</a></li>
+          </ul>
+        </div>
+        <!-- 网站信息 End -->
+        <!-- 联系信息 -->
+        <div class="footer-contact">
+          <!-- 版权信息 -->
+          <div class="module-main clearfix">
+            <div class="module-span7">
+              <dl class="module-box">
+                <dd class="iconfont ico1">
+                  <font>主办：南昌市人民政府办公室    </font>
+                </dd>
+                <dd class="iconfont ico3">
+                  <font>承办：南昌市数字科学研究中心</font>
+                </dd>
+                <dd class="iconfont ico2">
+                  <font>地址：南昌市红谷滩区市政府北四楼</font>
+                </dd>
+              </dl>
+            </div>
+            <div class="module-span5">
+              <dl class="module-box">
+                <dd >
+                  <font>政府网站标识码：3601000001</font>
+                </dd>
+                <dd >
+                  <font><a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">赣ICP备17015617号</a></font>
+                </dd>
+                <dd >
+                  <font><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36010802000056" target="_blank"><img
+            src="/ncszf/xhtml/2021/images/beian.png" alt="">赣公网安备 36010802000056号</a></font>
+                </dd>
+                <dd >
+                  <font>建议使用1920*1080分辨率浏览器</font>
+                </dd>
+              </dl>
+            </div>
+          </div>
+          <!-- 版权信息 End -->
+          <!-- 网站标志 -->
+          <div class="footer-wzbz">
+            <span id="conac"><a href="http://bszs.conac.cn/sitename?method=show&id=3162B7B4322131A1E053012819ACEB3D" target="_blank"><img src="/ncszf/xhtml/2021/images/red.png" alt=""></a></span>
+            <span id="jbzx12377"><a href="http://www.12377.cn" target="_blank"><img src="/ncszf/xhtml/2021/images/12377.png" alt=""></a></span>
+             <span id="jbzx12377a"><a><img src="/ncszf/xhtml/2021/images/slh_icon.png" alt=""></a></span>
+            <span id="jiucuo"><script id="_jiucuo_" sitecode='3601000001' src='https://zfwzgl.www.gov.cn/exposure/jiucuo.js'></script></span>
+          </div>
+          <!-- 网站标志 End -->
+        </div>
+        <!-- 联系信息 End -->
+      </div>
+    </div>
+    <!-- 板块信息 End -->
+
+    <!-- 版权信息 -->
+    <!--<div class="footer-copyright">
+      <dl class="container">
+        
+        <dd>政府网站标识码：3601000001</dd>
+        <dd><a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">赣ICP备17015617号</a></dd>
+        <dd><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36010802000056" target="_blank"><img
+              src="/ncszf/xhtml/2021/images/beian.png" alt="">赣公网安备 36010802000056号</a></dd>
+        <dd>建议使用1920*1080分辨率浏览器</dd>
+      </dl>
+    </div>-->
+    <!-- 版权信息 End -->
+  </div>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/footer.js"></script>
+  <script defer async type="text/javascript" src="//gov.govwza.cn/dist/aria.js?appid=09cc7530f7380b018143b5f8fcd69bae"  charset="utf-8"></script>
+      <!-- footer End -->
+    </div>
+    <!--第五屏 end-->
+  </div>
+  <div id="gjzc" style="display:none">
+    <script src="http://www.jiangxi.gov.cn/module/freshnews/freshnews.jsp?uid=360120"></script>
+  </div>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/common.js"></script>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/index.js?t=20221112"></script>
+  <!--<script type="text/javascript" src="/ncszf/xhtml/2021/js/home.js?t=20221101"></script>-->
+  <script type="text/javascript">
+     $(window).scroll(function(event) {
+       $(this).scrollTop() > $(".header").height() ? $(".header").addClass("home_headerbox") :$(".header").removeClass("home_headerbox");;
+      });
+  </script>
+  <script type="text/javascript" src="/ncszf/xhtml/2021/js/zfwj_list.js"></script>		
+   <!-- 左对联 S -->
+   
+
+  <!-- 左对联 E -->
+  <!-- 适老化快捷入口手机版 S -->
+  <div class="zhanshi">
+    <a href="http://www.nc.gov.cn/ncszf/suitold/SuitOld.shtml" class="guanai">
+      <img src="/ncszf/xhtml/images/ghb.png" alt="关爱模式"  class="guana">
+    </a>
+    <img src="/ncszf/xhtml/images/ghb_arr.png" class="an"  style="float:right;height: 80px;width:25%;">
+    <div style="clear:both;"></div>
+  </div>
+  <script type="text/javascript">
+			//关爱模式
+			$(document).ready(function() {
+				$(".an").click(function() {
+					$(".guanai").toggleClass('current')//收起
+					$(".current").animate({'width': '0px'})
+					if(!$(".guanai").hasClass("current")){//展开
+						$(".guanai").animate({'width': '70%'})
+					}
+				})
+			});
+		</script>
+  <!-- 适老化快捷入口手机版 E -->
+</body>
+</html>
